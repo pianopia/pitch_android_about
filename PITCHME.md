@@ -1,6 +1,5 @@
-## About for Android
-
 ---?image=image/Android_Robot.png
+## About for Android
 
 ---
 
