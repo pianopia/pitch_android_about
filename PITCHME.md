@@ -3,15 +3,15 @@
 
 ---
 
-### Androidとは？
+### Androidとは
 
 Googleが開発したモバイル向けOS
 
 現在はIoTなど組み込み向けもサポート
 
-+++
+---
 
-### その特徴は？
+### 主な特徴
 
 - モバイル向けにパフォーマンス調整されたAndroid Runtime（ART）という仮想マシンで動作
 - UIのカスタマイズをサードパーティーに開放している
@@ -21,7 +21,11 @@ Googleが開発したモバイル向けOS
 
 ### Google Play Store
 
-+++
+---
+
+
+
+---
 
 その他のストア
 
@@ -33,8 +37,10 @@ Googleが開発したモバイル向けOS
 
 ### Android OS のバージョンとそのシェア
 
-Android 11.0
-Andorid 10.0
+- Android 11.0
+- Andorid 10.0
+- Android 9.0
+- Android 8.0
 
 ---
 
@@ -53,12 +59,17 @@ Activityでアプリケーションが構成されています。
 １つのActivityで一つのアプリケーションが基本
 １つのアプリケーションに複数のActivityも存在
 
-+++
+---
 
 ![ライフサイクル画像](img/android_jitsumu2_6.jpg)
 
-+++
-
-
+---
 
 ActivityはGCによっていつ切られるかわからない
+
+---
+
+### Androidのジレンマ
+
+iOSと同じにして！と言われるが、
+Androidにも提供・推奨されているUIが存在する
