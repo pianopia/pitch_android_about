@@ -26,3 +26,13 @@ Andorid 10.0
 2. Google Play Consoleでリリース情報を編集
 3. APKファイルをアップロード
 4. 公開
+
+### Androidのライフサイクル
+
+基本的にはActivityという単位でアプリケーションが構成されています。
+一つのActivityで一つのアプリケーションなのですが、
+１つのアプリケーションに複数のActivityが入ります。
+
++++
+
+![ライフサイクル画像](img/android_jitsumu2_6.jpg)
