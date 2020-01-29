@@ -2,8 +2,14 @@
 
 +++
 
-## Test
+## Android OS のバージョンとそのシェア
+
+
 
 ---
 
-## Hi
+## リリースの流れ
+
+APKファイルをAndroid Studioでビルド
+
+Google Play Console
