@@ -1,4 +1,4 @@
----?image=image/Android_Robot.png
+---?image=img/Android_Robot.png
 ## About for Android
 
 ---
