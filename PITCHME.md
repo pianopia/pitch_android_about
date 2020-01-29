@@ -1,6 +1,6 @@
 ## About for Android
 
-![Androidロゴ](img/Android_Robot.png)
+<img src="img/Android_Robot.png" style="width:100px;float:left;">
 
 ---
 
