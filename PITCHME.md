@@ -13,6 +13,8 @@ Googleが開発したモバイル向けOS
 
 モバイル向けにパフォーマンス調整されたAndroid Runtime（ART）という仮想マシンで動作している
 
+---
+
 ### Android OS のバージョンとそのシェア
 
 Android 11.0
