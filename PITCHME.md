@@ -3,16 +3,31 @@
 
 ---
 
-### まずAndroidとは？
+### Androidとは？
 
 Googleが開発したモバイル向けOS
-現在はIoTなど組み込み向けとも謳っている
+
+現在はIoTなど組み込み向けもサポート
 
 +++
 
-### してその特徴は？
+### その特徴は？
 
-モバイル向けにパフォーマンス調整されたAndroid Runtime（ART）という仮想マシンで動作している
+- モバイル向けにパフォーマンス調整されたAndroid Runtime（ART）という仮想マシンで動作
+- UIのカスタマイズをサードパーティーに開放している
+- Google Play Store という専用のAndroidアプリ配信ストアが存在する
+
+---
+
+### Google Play Store
+
++++
+
+その他のストア
+
+-AndroidはiOSと異なり、サードパーティーのストアが存在
+
+例：Amazon App Market
 
 ---
 
@@ -34,10 +49,16 @@ Andorid 10.0
 
 ### Androidのライフサイクル
 
-基本的にはActivityという単位でアプリケーションが構成されています。
-一つのActivityで一つのアプリケーションなのですが、
-１つのアプリケーションに複数のActivityが入ります。
+Activityでアプリケーションが構成されています。
+１つのActivityで一つのアプリケーションが基本
+１つのアプリケーションに複数のActivityも存在
 
 +++
 
 ![ライフサイクル画像](img/android_jitsumu2_6.jpg)
+
++++
+
+
+
+ActivityはGCによっていつ切られるかわからない
