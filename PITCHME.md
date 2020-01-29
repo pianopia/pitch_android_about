@@ -1,6 +1,6 @@
 ## About for Android
 
-<img src="img/Android_Robot.png" style="width:100px;float:left;">
+---?image=image/Android_Robot.png
 
 ---
 
