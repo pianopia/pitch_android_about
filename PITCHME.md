@@ -1,5 +1,7 @@
 ## About for Android
 
+![Androidロゴ](img/Android_Robot.png)
+
 ---
 
 ### まずAndroidとは？
